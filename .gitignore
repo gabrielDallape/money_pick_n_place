@@ -1,0 +1,41 @@
+# Modelos pre-treinados base (baixar separado)
+yolov8*.pt
+
+# Datasets (baixar via download_dataset.py)
+datasets/
+
+# Resultados de treino (exceto o best.pt que vai via Release)
+runs/
+
+# Logs
+*.log
+training_resume.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Venv
+venv/
+.venv/
+money_env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Resultados temporarios de deteccao
+captura_*.jpg
+resultado_*.jpg
+ultima_deteccao.jpg
+deteccoes.json
+snapshot.jpg
