@@ -35,7 +35,13 @@ Thumbs.db
 
 # Resultados temporarios de deteccao
 captura_*.jpg
-resultado_*.jpg
+resultado*.jpg
 ultima_deteccao.jpg
 deteccoes.json
-snapshot.jpg
+snapshot*.jpg
+
+# Zips de dataset (sempre re-baixar do Roboflow)
+*.zip
+
+# Claude Code local
+.claude/
