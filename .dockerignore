@@ -1,0 +1,17 @@
+.git
+.gitignore
+datasets/
+runs/
+captures/
+*.zip
+*.pt
+!yolov8n.pt
+.dvc/cache
+.dvc/tmp
+__pycache__
+*.pyc
+.venv
+venv
+.pytest_cache
+.ipynb_checkpoints
+*.log

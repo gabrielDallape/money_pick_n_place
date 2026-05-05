@@ -1,8 +1,25 @@
 # Modelos pre-treinados base (baixar separado)
 yolov8*.pt
 
-# Datasets (baixar via download_dataset.py)
-datasets/
+# Datasets: dados brutos ficam fora do git (versionados via DVC).
+# Mas os arquivos .dvc (pointers, ~kb cada) PRECISAM ser comitados.
+datasets/*
+!datasets/*.dvc
+!datasets/.gitignore
+
+# Captures (fotos novas) — versionar via DVC tambem
+captures/*
+!captures/*.dvc
+
+# DVC: cache fica fora do git, config fica
+.dvc/cache
+.dvc/tmp
+
+# W&B local logs (sincronizados com wandb.ai)
+wandb/
+
+# pesos pesados de yolo (sao publicos e regeneraveis)
+yolov8*.pt
 
 # Resultados de treino (exceto o best.pt que vai via Release)
 runs/

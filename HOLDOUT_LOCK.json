@@ -1,0 +1,311 @@
+{
+  "name": "holdout",
+  "frozen_at": "2026-05-04T16:47:34",
+  "from_split": "test",
+  "seed": 42,
+  "count": 50,
+  "reason": "Golden set v2 - congelado para release v2.0",
+  "data_yaml": "C:\\Users\\gadal\\Desktop\\money_pick_n_place\\datasets\\v2\\data.yaml",
+  "files": [
+    {
+      "image": "90_20RealBra_2_jpeg.rf.IKZcweEkEl46EayvL1hi.jpeg",
+      "label": "90_20RealBra_2_jpeg.rf.IKZcweEkEl46EayvL1hi.txt",
+      "image_sha256": "66434048b3836006805970dd379f1f80cd6c6d554407352f2c07955579dad669",
+      "label_sha256": "4b4e0ee58737e1eeedc81b3f11813af0569d0b6e0678b68fc8dfa8824a29f585"
+    },
+    {
+      "image": "0_50RealBra_13_jpeg_jpg.rf.25qB4LJUJztmPGMxYeHe.jpg",
+      "label": "0_50RealBra_13_jpeg_jpg.rf.25qB4LJUJztmPGMxYeHe.txt",
+      "image_sha256": "803b7c71788da94030c47d0a4d997bdc80e5a98b1046bd8ca54d52f51a72fd08",
+      "label_sha256": "fbbebae23c0b41157e93c48ce86baf0a2c4df0cbc09024c582cc5a683190718b"
+    },
+    {
+      "image": "0_10RealBra_17_jpeg_jpg.rf.YibfD6Ylju7pn3WB1XKA.jpg",
+      "label": "0_10RealBra_17_jpeg_jpg.rf.YibfD6Ylju7pn3WB1XKA.txt",
+      "image_sha256": "968bc481dce35c29b5e04b883cf0f34a63fd9a7706ec7a7711d8cfba71e0ae8a",
+      "label_sha256": "7d5b536ae0a9a51a8600e2e2871ead2fc5f8c02d913e837880370a673e484a49"
+    },
+    {
+      "image": "image18_jpeg_jpg.rf.vCJUvNLsz7Go2EWcZaMI.jpg",
+      "label": "image18_jpeg_jpg.rf.vCJUvNLsz7Go2EWcZaMI.txt",
+      "image_sha256": "432259bc218ce2542714dbb7f039806d6176f8b67ec51421a846352b8212db5e",
+      "label_sha256": "c044878055e9b99856e0f6da830d54081674ce0a2c90d43c1a7d1e58a46e21ff"
+    },
+    {
+      "image": "180_2RealBra_44_jpeg_jpg.rf.jAW8OcmY9u4x8lOhMpA1.jpg",
+      "label": "180_2RealBra_44_jpeg_jpg.rf.jAW8OcmY9u4x8lOhMpA1.txt",
+      "image_sha256": "e4469668ffe5ab2a232f9f872500486b58243e5fa98f2d0ae9bd45aa5d098477",
+      "label_sha256": "32c3ac47c63db9e634f2f6cd126939fcaf114c574df88806caa9397a36a14a40"
+    },
+    {
+      "image": "180_20RealBra_2_jpeg.rf.rGA441nhzjY3Gnpq4N8y.jpeg",
+      "label": "180_20RealBra_2_jpeg.rf.rGA441nhzjY3Gnpq4N8y.txt",
+      "image_sha256": "0e8151a862c6896548ada2351d77bf43e4bc4fed729dc430656d033c5067a1de",
+      "label_sha256": "646a7b5909987df6b719bdafc7481600d456a998bf71c6af5e9c9ec2c3500d81"
+    },
+    {
+      "image": "180_10RealBra_5_jpeg.rf.BqCi4cEkhtTsZEi2QlS4.jpeg",
+      "label": "180_10RealBra_5_jpeg.rf.BqCi4cEkhtTsZEi2QlS4.txt",
+      "image_sha256": "dadfa67ed91f5fbf56f5357e82631c20bd46235cfc6490f1b8c9e855ae89995f",
+      "label_sha256": "eeabdc433f6963409cbb8ece3398b17222b3009f7726587572e3fd97270d9f9c"
+    },
+    {
+      "image": "0_5RealBra_23_jpeg_jpg.rf.zTp30pHOWKQqmPymhrzq.jpg",
+      "label": "0_5RealBra_23_jpeg_jpg.rf.zTp30pHOWKQqmPymhrzq.txt",
+      "image_sha256": "b5ed4981c81019e2d2e43d4145f6a67271dc43453cad9619350b99de81813813",
+      "label_sha256": "581146d5c90b6188faaccadd9cd9704805dd63e8fde3b149bc9a3f69a621a1e9"
+    },
+    {
+      "image": "image18_jpeg_jpg.rf.0eS0xrC7p0QM0nL7fAN0.jpg",
+      "label": "image18_jpeg_jpg.rf.0eS0xrC7p0QM0nL7fAN0.txt",
+      "image_sha256": "fcc38a50865783d28410c965f52742891af3268241b67b41a4acd730c9ad80f7",
+      "label_sha256": "c044878055e9b99856e0f6da830d54081674ce0a2c90d43c1a7d1e58a46e21ff"
+    },
+    {
+      "image": "0_2RealBra_3_jpeg_jpg.rf.ZxgLbxjK6myqGHFeZrhU.jpg",
+      "label": "0_2RealBra_3_jpeg_jpg.rf.ZxgLbxjK6myqGHFeZrhU.txt",
+      "image_sha256": "46c1700b67993a0880df635e98a3e5aec798ce0f9bbffeb30e9016a721420a23",
+      "label_sha256": "7d05077852c0b3743a371b1d8fa5405afaf21bb90d756523c6eaabbf52b8fff9"
+    },
+    {
+      "image": "90_2RealBra_8_jpeg_jpg.rf.BBjUphPZcuaUb7wyF5XK.jpg",
+      "label": "90_2RealBra_8_jpeg_jpg.rf.BBjUphPZcuaUb7wyF5XK.txt",
+      "image_sha256": "821b658834d17e4531237e11149afced2c71563c22eca3941d45ab168e3b7cdf",
+      "label_sha256": "612ac717fc5be75a76921acec4f6900372289562d62aaae720492461b7f36b18"
+    },
+    {
+      "image": "62_jpg.rf.bj5VzMlNJIqRaMLYSzpl.jpg",
+      "label": "62_jpg.rf.bj5VzMlNJIqRaMLYSzpl.txt",
+      "image_sha256": "0d3c6f93793ea32cd4ac6117568099b9641a00a01d8c6eaf40cd18a08f7bb915",
+      "label_sha256": "0bd810b0b66685d5c4781deb2513684ee57ff81693aaa7d98ec254ddab92c94b"
+    },
+    {
+      "image": "0_20RealBra_47_jpeg_jpg.rf.ebv9hJJBJxhEGjbp5yaU.jpg",
+      "label": "0_20RealBra_47_jpeg_jpg.rf.ebv9hJJBJxhEGjbp5yaU.txt",
+      "image_sha256": "b734d396d2414db6c27c464e4794baf9b8f4d6cd50ceba1905784254392412f1",
+      "label_sha256": "02d107e74669b908593f8c56bae49cfb9f09abd74e401aba5d958d50b4b6c7b7"
+    },
+    {
+      "image": "90_100RealBra_29_jpeg.rf.k2MN3RxGycPMiE3OK8dU.jpeg",
+      "label": "90_100RealBra_29_jpeg.rf.k2MN3RxGycPMiE3OK8dU.txt",
+      "image_sha256": "58fc09591bd26c8df050f03061fb6266cf75310ba63be0851199d418e317f5bc",
+      "label_sha256": "0ae9322c5d0c3628ca04ffb1fb1ac8b81f23f52f5e2c37e8dc59f718d0ce91bf"
+    },
+    {
+      "image": "270_20RealBra_47_jpeg.rf.h9Egq3OcZDF1hpObLSD7.jpeg",
+      "label": "270_20RealBra_47_jpeg.rf.h9Egq3OcZDF1hpObLSD7.txt",
+      "image_sha256": "7a9fa9758129fe26250c2665a41af6f4a282efc485762fa0ba3e957c5de1c8fb",
+      "label_sha256": "09aa70fd353afc35817769f6a5c0cf248488c73345d89708e5418d802ec201c2"
+    },
+    {
+      "image": "0_10RealBra_32_jpeg.rf.xlTjMZGLfV9lQYABAFvB.jpeg",
+      "label": "0_10RealBra_32_jpeg.rf.xlTjMZGLfV9lQYABAFvB.txt",
+      "image_sha256": "17c230be8fcb556b52a909a117509fcaf287352e2bd472cbb1903c817e73748d",
+      "label_sha256": "a9dd5c4daefed6c10d93adb9e609e76a1025c22facd6a7bcb1c9704b0b91f3eb"
+    },
+    {
+      "image": "0_10RealBra_32_jpeg.rf.wS1bWaYc0E19OhdPoWsQ.jpeg",
+      "label": "0_10RealBra_32_jpeg.rf.wS1bWaYc0E19OhdPoWsQ.txt",
+      "image_sha256": "e43575ca240ffd88f23e07c5a2194793b68427e8501f6a56d21d1d21fb35ab60",
+      "label_sha256": "a9dd5c4daefed6c10d93adb9e609e76a1025c22facd6a7bcb1c9704b0b91f3eb"
+    },
+    {
+      "image": "0_20RealBra_50_jpeg.rf.tw9H6mSWAuFmmNlxx8aB.jpeg",
+      "label": "0_20RealBra_50_jpeg.rf.tw9H6mSWAuFmmNlxx8aB.txt",
+      "image_sha256": "3f4709c502898a3965ca563646cb358c2bce7d95aff2e451b3ca3c441b360587",
+      "label_sha256": "8bcffeee03e3b614d81117d5f1a81cc4c8bbca9d83e7fde080428c6e59491533"
+    },
+    {
+      "image": "180_10RealBra_38_jpeg_jpg.rf.KPtGXSTHPClefJzNpqj9.jpg",
+      "label": "180_10RealBra_38_jpeg_jpg.rf.KPtGXSTHPClefJzNpqj9.txt",
+      "image_sha256": "133a6d0268e82b0c9fc8cb6ee1c67fea890bc42774b154ce985e5026ef1ab2c2",
+      "label_sha256": "871c9d78b98d78e95d50b7dee67c0da7897dbdca3a2066ee4704d564fb4266d5"
+    },
+    {
+      "image": "180_200RealBra_46_jpeg.rf.XiFDnFopvJHaAV4mnh3a.jpeg",
+      "label": "180_200RealBra_46_jpeg.rf.XiFDnFopvJHaAV4mnh3a.txt",
+      "image_sha256": "711709b52ce96cf219209c860e3de5847c283e75f16a20ed5e4cee5b6006007f",
+      "label_sha256": "6121e6e7e67e4e2186fd313bd2cfe2618f182b04e4ddc200af7a69673f8ff0ad"
+    },
+    {
+      "image": "355_jpg.rf.NIwJc03tCf5I4sfNe9kJ.jpg",
+      "label": "355_jpg.rf.NIwJc03tCf5I4sfNe9kJ.txt",
+      "image_sha256": "a9999aea44c763079af964011044a10cce8281c510de564b647ca9b6cebfe49c",
+      "label_sha256": "3160a267ed6e126e4f91a5b1e8378b19e55b5e715ca94077640bd88185a99972"
+    },
+    {
+      "image": "90_10RealBra_32_jpeg.rf.cSR6K6D7v3cCbYUHWyrF.jpeg",
+      "label": "90_10RealBra_32_jpeg.rf.cSR6K6D7v3cCbYUHWyrF.txt",
+      "image_sha256": "32314c48ad2e2cbf01a70874b450b0e30f869fa0ac66c1deca287a0a3cd7bdf7",
+      "label_sha256": "f80298b16b69efad774608d951614aee22fdcb7420ea17ec7e85d1838b7e9f5b"
+    },
+    {
+      "image": "0_10RealBra_18_jpeg.rf.i08FwZanTsU63zXWMhrN.jpeg",
+      "label": "0_10RealBra_18_jpeg.rf.i08FwZanTsU63zXWMhrN.txt",
+      "image_sha256": "5640bbd99d5549db68d756fed130f4e55f580f14c64a7aa271a47aee810acbde",
+      "label_sha256": "70610af6c96a08c5d0a0cdbfce021f02c9cdd088673966489f6ff0cb75b6a183"
+    },
+    {
+      "image": "7a62ff8f-200REAIS-IMG20_jpg.rf.rIqz5oZmchh98fnwlHHx.jpg",
+      "label": "7a62ff8f-200REAIS-IMG20_jpg.rf.rIqz5oZmchh98fnwlHHx.txt",
+      "image_sha256": "3ef90157650e37c5047222d677aabcde6c0cd2a36654e2c98cad9cf84d36f168",
+      "label_sha256": "6509932a00aeacee9a09349bc0bb248b087e7a31d157a125d7afc281a174dc11"
+    },
+    {
+      "image": "180_100RealBra_4_jpeg.rf.dDxEoxur1WOEaXRGnczW.jpeg",
+      "label": "180_100RealBra_4_jpeg.rf.dDxEoxur1WOEaXRGnczW.txt",
+      "image_sha256": "af616065a32ea8f2ccd18f69108c7ae18bb368a348e2b2a1c0bc9f5fedf7f3b3",
+      "label_sha256": "14c010a8a21664618889948cdce931f74a7d5532972b4136959a588fee6f1f4b"
+    },
+    {
+      "image": "a97fe423-20REAIS-IMG18_jpg.rf.pQl5VCbMJgsIwkdfFgZs.jpg",
+      "label": "a97fe423-20REAIS-IMG18_jpg.rf.pQl5VCbMJgsIwkdfFgZs.txt",
+      "image_sha256": "b1b140bbcd9d04181c2bcfcc9744aec75dcfed7289c306c0546b2b0167cd186e",
+      "label_sha256": "035a9e2e704d6be790d91c3e17f3f47b3786a470c1b6d49612008917525d6da0"
+    },
+    {
+      "image": "90_20RealBra_47_jpeg.rf.OayJKmr06BcXWnm5kJd6.jpeg",
+      "label": "90_20RealBra_47_jpeg.rf.OayJKmr06BcXWnm5kJd6.txt",
+      "image_sha256": "90c671f0b8391b07f33164f5323f71c2f99523dd087d72e734c125ec5a3b007b",
+      "label_sha256": "ee9c37096f0d2769793536d544e63c4afc224bf47731d0aa30b60f3cb75abd5f"
+    },
+    {
+      "image": "90_50RealBra_4_jpeg_jpg.rf.sVeEHCfDTyUbSjwzwsBz.jpg",
+      "label": "90_50RealBra_4_jpeg_jpg.rf.sVeEHCfDTyUbSjwzwsBz.txt",
+      "image_sha256": "67dc29a00e24f44327fd679749014f0339516cb4bc147ceb9f5c7bca51fbf736",
+      "label_sha256": "b87472d2d1d14c6c7886dc666e8ecf8ae849996f808636d6023d6d780b1bb94e"
+    },
+    {
+      "image": "270_20RealBra_46_jpeg_jpg.rf.L7zw2Nrro8uK0M5nPwjY.jpg",
+      "label": "270_20RealBra_46_jpeg_jpg.rf.L7zw2Nrro8uK0M5nPwjY.txt",
+      "image_sha256": "e3e862f95209af4852ff82df3c5b79919d69aece30fc6683282088b0e7422527",
+      "label_sha256": "f1268ef6a2bc2c47f85656f782c5e6a08e0244de71b7d0a01e543a0b30a9695b"
+    },
+    {
+      "image": "180_10RealBra_38_jpeg_jpg.rf.LgKVVkkZwx6Wv7Cx6GEP.jpg",
+      "label": "180_10RealBra_38_jpeg_jpg.rf.LgKVVkkZwx6Wv7Cx6GEP.txt",
+      "image_sha256": "c34818f431d39ebe4f6904f46aa330591f877a13f452d163dfa766a40bd03687",
+      "label_sha256": "0a9103c55f7f8ea1af1b335dc9d5706b7fc79e84d39a6e6e891979719fd83995"
+    },
+    {
+      "image": "270_2RealBra_8_jpeg_jpg.rf.3CPgoX5U3tEFGeCx7M3f.jpg",
+      "label": "270_2RealBra_8_jpeg_jpg.rf.3CPgoX5U3tEFGeCx7M3f.txt",
+      "image_sha256": "a04d4f1d18fd3e8966fecb04d932e9d2bf880dc316ee7fbc0991a2e66726e1d0",
+      "label_sha256": "2a7778a1317e41ffdf685e2e2c899748b3c79aa6027670d6734003a44cb012b6"
+    },
+    {
+      "image": "90_100RealBra_27_jpeg_jpg.rf.zbra6w7yMjsxeJ4XPkns.jpg",
+      "label": "90_100RealBra_27_jpeg_jpg.rf.zbra6w7yMjsxeJ4XPkns.txt",
+      "image_sha256": "094155250c3230be85b1f3e12f31e9db806e6261f677c23fa5d6b1e10ec010fa",
+      "label_sha256": "b1e552f4455374bfb7962f1f3b46a430e13f60e650461b5a7c62bdc616510a53"
+    },
+    {
+      "image": "180_2RealBra_8_jpeg_jpg.rf.JHoggDAX3t8buPrhyz6M.jpg",
+      "label": "180_2RealBra_8_jpeg_jpg.rf.JHoggDAX3t8buPrhyz6M.txt",
+      "image_sha256": "ef0abf0da9f4121150e37ac8bfc71c2d5d21db54c370ba5d036421fe40936960",
+      "label_sha256": "0c75070289553308b46dab50b31cb42d3ae94e27870eaa04ccbcdb9848e9ec90"
+    },
+    {
+      "image": "0_100RealBra_21_jpeg_jpg.rf.memABXG2J1Q4yhBpcvLM.jpg",
+      "label": "0_100RealBra_21_jpeg_jpg.rf.memABXG2J1Q4yhBpcvLM.txt",
+      "image_sha256": "1dd8626dc71c3b575dfc671f203f414393c76c820c5bfae71a57444b896fe721",
+      "label_sha256": "86ccb51681f7344a79184979fc30b48ee865e62d0e1cb2cc6e2821d88c9c9d47"
+    },
+    {
+      "image": "125_jpg.rf.9YyPYaZVbnpvxK5tfPk0.jpg",
+      "label": "125_jpg.rf.9YyPYaZVbnpvxK5tfPk0.txt",
+      "image_sha256": "73464daec6ff3ba38e6c0fa679230f40b65b05ddb3b958dd9f257be096d75425",
+      "label_sha256": "a4f66a55cff14508823222717830ae72c49f80963c5162a7b71a811d93fd8366"
+    },
+    {
+      "image": "90_50RealBra_4_jpeg_jpg.rf.l40dONS6ZCNpjxTFUWxq.jpg",
+      "label": "90_50RealBra_4_jpeg_jpg.rf.l40dONS6ZCNpjxTFUWxq.txt",
+      "image_sha256": "93ec46df205d7d5cd020b566914b7cb54d607b1eaa239753381891f76cbacef9",
+      "label_sha256": "d19ad89d75ac5a6f1589670914ef620b935d37e08e9572c788ba0bc5ac804652"
+    },
+    {
+      "image": "20240925_195113_jpg.rf.QN2ZBetTyu7nm7iHpI2F.jpg",
+      "label": "20240925_195113_jpg.rf.QN2ZBetTyu7nm7iHpI2F.txt",
+      "image_sha256": "f0df29eefa11f05908e6aa535fe30a6352204c6f2a53687be5c680ab6b1cc3e1",
+      "label_sha256": "2aaee7458c5bc90e1accad2de2a6b26842bee13917fac0444945833d19f19257"
+    },
+    {
+      "image": "10reais_4_jpeg.rf.3Q9eYkv9RmkfMkBREw8K.jpeg",
+      "label": "10reais_4_jpeg.rf.3Q9eYkv9RmkfMkBREw8K.txt",
+      "image_sha256": "e6dea721ad3879847d7ab3b4bce5cbd6f6b25547f69959c9fe4b2a39e21174a1",
+      "label_sha256": "b1ee723965816e4048eaa894c8eaf2ba74890b2f56108209fa86e6fdf63dece0"
+    },
+    {
+      "image": "180_10RealBra_35_jpeg_jpg.rf.DogSZkf60w0qe00qYPpZ.jpg",
+      "label": "180_10RealBra_35_jpeg_jpg.rf.DogSZkf60w0qe00qYPpZ.txt",
+      "image_sha256": "3dd15f4e92a3d0a0ba1951828bc71dc29c24aa251b87f69bd271377b678822a9",
+      "label_sha256": "54b0c311f8831328ee138623eccd04d8053df569069a4f6766afa29697768aa4"
+    },
+    {
+      "image": "20240925_193457_jpg.rf.PIV5PpUlB7w9wGLi2be8.jpg",
+      "label": "20240925_193457_jpg.rf.PIV5PpUlB7w9wGLi2be8.txt",
+      "image_sha256": "c995a8ee4d6297932ca80447525acb3e68059ddaff873e7a38c768024b03e798",
+      "label_sha256": "d22594aa660b48d74aad3c34bb2879d3ce2a948855becb1518def5de116606b5"
+    },
+    {
+      "image": "270_10RealBra_32_jpeg.rf.4jTjykwUzJBpcCxEFClq.jpeg",
+      "label": "270_10RealBra_32_jpeg.rf.4jTjykwUzJBpcCxEFClq.txt",
+      "image_sha256": "6800ff34e67fc5694f00d847dcc54c22a09b4821fc2e6962938f33a011623a3d",
+      "label_sha256": "def9ce157f64305f83c83f3d4ddcd53582c2755159330b3bc54934d7a2ba072b"
+    },
+    {
+      "image": "0_2RealBra_2_jpeg.rf.Pg6MtxdD80MY2hoU3qWH.jpeg",
+      "label": "0_2RealBra_2_jpeg.rf.Pg6MtxdD80MY2hoU3qWH.txt",
+      "image_sha256": "c85a8b60486a93347d85077a962a28af3771ed4ee15b06d7e7391ad127ff0518",
+      "label_sha256": "ea236e2c8151e0fdd75916ebd41dc47aba4ede1871ff357c9d11df0da074a080"
+    },
+    {
+      "image": "270_100RealBra_21_jpeg_jpg.rf.NhxdUVHZKSHeWsgPcN4x.jpg",
+      "label": "270_100RealBra_21_jpeg_jpg.rf.NhxdUVHZKSHeWsgPcN4x.txt",
+      "image_sha256": "d2ad4df3b7d13ccc92523abd770e1278186d07029407fc47a475c02bc0819abe",
+      "label_sha256": "4e61707abfb129a3df25f5245e8f5ce7022ae3c7f4368b34774e6f0e30be84ae"
+    },
+    {
+      "image": "220_jpg.rf.HSI49cBXryAKTTJJovmt.jpg",
+      "label": "220_jpg.rf.HSI49cBXryAKTTJJovmt.txt",
+      "image_sha256": "e6f49d56d635d1fb1ff38a30219ad519813a2c6e4b245499389264f5cb683fdd",
+      "label_sha256": "90097747d47d33cee698d38873f89fe6bbf2b38b4eb3d0a023ea4fd28535368d"
+    },
+    {
+      "image": "90_10RealBra_32_jpeg.rf.J23KOtM5QbdTaszjPoWj.jpeg",
+      "label": "90_10RealBra_32_jpeg.rf.J23KOtM5QbdTaszjPoWj.txt",
+      "image_sha256": "d0fc576a85248a4825140a9cb4119748967f60ad11740abeea8f876fd8ac6ec0",
+      "label_sha256": "f80298b16b69efad774608d951614aee22fdcb7420ea17ec7e85d1838b7e9f5b"
+    },
+    {
+      "image": "180_2RealBra_2_jpeg.rf.cKrbm8tZGdvDQmvdpb26.jpeg",
+      "label": "180_2RealBra_2_jpeg.rf.cKrbm8tZGdvDQmvdpb26.txt",
+      "image_sha256": "c393ecde395843210c7c896ebc145f1f1290f87af5d4d766809c320cef730d42",
+      "label_sha256": "ad0b8e05e01ad1c817647f40d40838c358ced09f18075975ebdd3b0d7f59d991"
+    },
+    {
+      "image": "0_10RealBra_5_jpeg.rf.xdoSUYHqUThmgc72sGyk.jpeg",
+      "label": "0_10RealBra_5_jpeg.rf.xdoSUYHqUThmgc72sGyk.txt",
+      "image_sha256": "af54187c4385877c861382081327bca2708e2dd76b6e9f61d773d1ebfa08acd8",
+      "label_sha256": "503519eaf28b36ade934a2edf48f510d3879941904942b4cae1ac94e473c1c9c"
+    },
+    {
+      "image": "cedulas_39_brightness_aug_0-6_png.rf.a37wLzZ8A3Qb2rz66MfC.png",
+      "label": "cedulas_39_brightness_aug_0-6_png.rf.a37wLzZ8A3Qb2rz66MfC.txt",
+      "image_sha256": "8c657d78db8c1b472fa23587ec77829cd61be5cd09c3cb7ef987c243b2c07684",
+      "label_sha256": "172f316a908947539f31bac56d6662943dd807b0d225736a05581460ac2a1eca"
+    },
+    {
+      "image": "270_50RealBra_2_jpeg.rf.vIaYsKJj8bSsnx4sPJOj.jpeg",
+      "label": "270_50RealBra_2_jpeg.rf.vIaYsKJj8bSsnx4sPJOj.txt",
+      "image_sha256": "2f6482223e27ba5e6036cdd2115f5d699099cfcccc5a425649c201af343d97a0",
+      "label_sha256": "4a2e7cfe8fb3d5b92fc08186277d25839672168ec882fdfb3efae535927e43b6"
+    },
+    {
+      "image": "56-100_jpg.rf.J1QOoZfJaAgCc4qcxHkV.jpg",
+      "label": "56-100_jpg.rf.J1QOoZfJaAgCc4qcxHkV.txt",
+      "image_sha256": "483ec2b00b89ec4ecb8b40109029c87546c1df58f1fe1f02c9bf8e0f30924669",
+      "label_sha256": "c01343608a0f8dd7eb7a4421fd20a3356f45695604fb37349c07dc82b66c9105"
+    }
+  ]
+}

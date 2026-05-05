@@ -1,0 +1,7 @@
+[cache]
+    type = "reflink,hardlink,symlink,copy"
+    shared = group
+[core]
+    remote = local-storage
+['remote "local-storage"']
+    url = C:/Users/gadal/Desktop/dvc_storage_money_pnp

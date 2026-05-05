@@ -2,3 +2,18 @@ ultralytics>=8.0.0
 roboflow
 opencv-python>=4.8.0
 numpy
+pyyaml
+
+# experiment tracking
+wandb
+
+# dataset inspection / curation
+fiftyone
+
+# label-error detection
+cleanlab>=2.5.0
+scikit-learn
+
+# evaluation plots
+matplotlib
+seaborn
